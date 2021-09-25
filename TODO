@@ -3,3 +3,5 @@
 3. yarn (npm install)
 4. yarn dev
 5. symfony server:start
+
+assets/AppComponent.vue - VueJS entry point
