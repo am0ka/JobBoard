@@ -1,0 +1,5 @@
+1. config/services.yaml -> edit parameters depending on your system
+2. composer install
+3. yarn (npm install)
+4. yarn dev
+5. symfony server:start
