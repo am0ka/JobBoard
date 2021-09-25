@@ -6,9 +6,9 @@
 parameters:
     database_host: 127.0.0.1
     database_port: null
-    database_name: epitech
-    database_user: amoka
-    database_password: amokaSa98
+    database_name: database_name
+    database_user: database_user
+    database_password: database_password
 
 services:
     # default configuration for services in *this* file
