@@ -1,0 +1,5 @@
+1. npm install (yarn) in this folder
+2. npm install (yarn) in client folder
+
+client/src/App.js -> React entry point
+server.js -> Express entry point
